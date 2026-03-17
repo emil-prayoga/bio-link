@@ -19,6 +19,7 @@ body {
     align-items: center;
     margin: 0 auto;
     min-height: 100vh;
+    background: linear-gradient(135deg, var(--primary-color) 0%, var(--secondary-color) 100%);
 }
 
 .card{
